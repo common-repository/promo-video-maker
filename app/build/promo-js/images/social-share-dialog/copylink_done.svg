@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="55px" viewBox="0 0 55 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.1 (78136) - https://sketchapp.com -->
+    <title>467B1FC8-7A44-4748-AADE-1BBD7751472B</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <circle id="path-1" cx="27.5" cy="27.5" r="27.5"></circle>
+    </defs>
+    <g id="share-page-Copy-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_link-copied" transform="translate(-11.000000, -13.000000)">
+            <g id="ic_copylink_done" transform="translate(11.000000, 13.000000)">
+                <g id="ic_copy">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use fill="#000000" xlink:href="#path-1"></use>
+                </g>
+                <polyline id="Path-2" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" points="18 28.4984717 24.3820486 35 38 21"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

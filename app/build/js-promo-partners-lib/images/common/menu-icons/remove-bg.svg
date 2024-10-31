@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="16px" viewBox="0 0 15 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>EA178A96-7E05-4651-B52E-C90467236318</title>
+    <g id="elemnts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icons" transform="translate(-370.000000, -339.000000)">
+            <g id="Icon-|-Remove-bg-|-16px" transform="translate(369.500000, 339.000000)">
+                <g id="Remove-bg-icon">
+                    <polygon id="Bkg" points="0 16 16 16 16 0 0 0"></polygon>
+                    <g id="Icon" transform="translate(2.000000, 0.100000)">
+                        <rect id="bg" fill="#9799A4" x="0" y="1.9" width="4.2" height="12"></rect>
+                        <g id="Group" transform="translate(0.000000, 1.900000)" stroke="#000000" stroke-linejoin="round" stroke-width="1.1">
+                            <path d="M12,0 L8.8,0 C8.24771525,1.01453063e-16 7.8,0.44771525 7.8,1 L7.8,11 C7.8,11.5522847 8.24771525,12 8.8,12 L12,12 L12,12" id="Path-4" transform="translate(9.900000, 6.000000) scale(-1, 1) translate(-9.900000, -6.000000) "></path>
+                            <path d="M4.2,0 L1,0 C0.44771525,1.01453063e-16 -6.76353751e-17,0.44771525 0,1 L0,11 C1.04869017e-15,11.5522847 0.44771525,12 1,12 L4.2,12 L4.2,12" id="Path-4"></path>
+                        </g>
+                        <g id="Group-2" transform="translate(5.450000, 0.000000)" fill="#000000">
+                            <rect id="Rectangle" x="0" y="0.7" width="1.1" height="2.5" rx="0.5"></rect>
+                            <rect id="Rectangle" x="2.27373675e-13" y="4.66666667" width="1.1" height="2.5" rx="0.5"></rect>
+                            <rect id="Rectangle" x="2.27373675e-13" y="8.63333333" width="1.1" height="2.5" rx="0.5"></rect>
+                            <rect id="Rectangle" x="0" y="12.6" width="1.1" height="2.5" rx="0.5"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

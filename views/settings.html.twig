@@ -1,0 +1,20 @@
+<div class="wrap">
+    <h1>Settings</h1>
+
+    <form method="post" action="options.php">
+        <input type='hidden' name='option_page' value="{{ option_group }}"/>
+        <input type="hidden" name="action" value="update"/>
+        <input type="hidden" id="_wpnonce" name="_wpnonce" value="{{ nonce }}"/>
+        <table class="form-table">
+            {% for key, setting in settings %}
+                <tr valign="top">
+                    <th scope="row">{{ setting.name }}</th>
+                    <td>
+                        <input type="text" name="{{ key }}" value="{{ setting.value }}"/>
+                    </td>
+                </tr>
+            {% endfor %}
+        </table>
+        <input type="submit" name="submit" id="submit" class="button button-primary" value="Save Changes">
+    </form>
+</div>

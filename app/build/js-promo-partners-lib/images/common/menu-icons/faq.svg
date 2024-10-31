@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>Icons/Profile_FAQ</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons/Profile_FAQ" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#000000" cx="8" cy="8" r="6.5"></circle>
+        <g id="Group" transform="translate(6.100000, 4.500000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M-6.88338275e-15,1.77248627 C-6.88338275e-15,0.793662745 0.79339085,3.68594044e-14 1.77248627,3.68594044e-14 C2.75103791,3.68594044e-14 3.54470065,0.793662745 3.54470065,1.77248627 C3.54470065,2.7513098 2.75103791,3.54497255 1.77248627,3.54497255 L1.77248627,4.74566275 L1.77248627,3.60207059" id="Stroke-3"></path>
+            <path d="M2.05805804,6.58543828 C2.05805804,6.74340952 1.92999529,6.87120037 1.77229595,6.87120037 C1.61432471,6.87120037 1.48626196,6.74340952 1.48626196,6.58543828 C1.48626196,6.42746704 1.61432471,6.2994043 1.77229595,6.2994043 C1.92999529,6.2994043 2.05805804,6.42746704 2.05805804,6.58543828 Z" id="Stroke-5" stroke-width="0.5" fill="#000000"></path>
+        </g>
+    </g>
+</svg>

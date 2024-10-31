@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 61.2 (101010) - https://sketch.com -->
+    <title>BD420917-40EF-4BF9-BADE-AB3F3478709C</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Asset-Artboard-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Edit-media_replace-Icon-|-Replace-|-16px">
+            <g id="Icon-|-Replace">
+                <rect id="Bkg" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="16" height="16"></rect>
+                <g id="Icon">
+                    <rect id="Rectangle" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="16" height="16"></rect>
+                    <rect id="Rectangle" stroke="#000000" stroke-linejoin="round" x="1" y="1" width="7" height="5" rx="0.5"></rect>
+                    <g id="Arrow" transform="translate(10.500000, 2.000000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round">
+                        <polyline id="Path" points="1.5 3 0 1.5 1.5 0"></polyline>
+                        <path d="M0.5,1.5 L3.5,1.5 C4.05228475,1.5 4.5,1.94771525 4.5,2.5 L4.5,5 L4.5,5" id="Path-2"></path>
+                    </g>
+                    <rect id="Rectangle" stroke="#000000" stroke-linejoin="round" x="8" y="10" width="7" height="5" rx="0.5"></rect>
+                    <g id="Arrow" transform="translate(1.000000, 9.000000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round">
+                        <polyline id="Path" transform="translate(3.750000, 3.500000) scale(-1, -1) translate(-3.750000, -3.500000) " points="4.5 5 3 3.5 4.5 2"></polyline>
+                        <path d="M0,0 L3,0 C3.55228475,-1.01453063e-16 4,0.44771525 4,1 L4,3.5 L4,3.5" id="Path-2" transform="translate(2.000000, 1.750000) scale(-1, -1) translate(-2.000000, -1.750000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

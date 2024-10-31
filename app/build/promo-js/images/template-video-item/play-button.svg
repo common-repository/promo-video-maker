@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="54px" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 53.2 (72643) - https://sketchapp.com -->
+    <title>ECBDDC81-DCEC-4AA2-ADA9-D03A4F978CB3</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mobile_play-icon" transform="translate(-161.000000, -720.000000)">
+            <g id="Play_mobile" transform="translate(161.000000, 720.000000)">
+                <circle id="Oval" fill-opacity="0.35" fill="#252E3B" cx="27" cy="27" r="27"></circle>
+                <path d="M35.0716794,27.9270916 L25.5595463,35.2098185 C24.9328225,35.6896539 24.0357789,35.5705774 23.5559434,34.9438535 C23.3650056,34.6944653 23.2615385,34.3891233 23.2615385,34.0750345 L23.2615385,19.5095808 C23.2615385,18.7202616 23.9014081,18.0803919 24.6907274,18.0803919 C25.0048161,18.0803919 25.3101581,18.1838591 25.5595463,18.3747969 L35.0716794,25.6575237 C35.6984032,26.1373592 35.8174798,27.0344028 35.3376444,27.6611266 C35.2610935,27.7611115 35.1716642,27.8505408 35.0716794,27.9270916 Z" id="Triangle" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

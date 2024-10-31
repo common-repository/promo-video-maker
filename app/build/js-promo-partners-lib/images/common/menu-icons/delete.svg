@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>Icons/Edit media_delete</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icons/Edit-media_delete" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill-opacity="0" fill="#FFFFFF" x="4.4408921e-16" y="4.4408921e-16" width="16" height="16"></rect>
+        <polyline id="Path" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" points="2.61769688 4.40962206 3.81769688 4.40962206 13.4176969 4.40962206"></polyline>
+        <path d="M12.2176969,4.40962206 L12.2176969,12.8096221 C12.2176969,13.4723638 11.6804386,14.0096221 11.0176969,14.0096221 L5.01769688,14.0096221 C4.35495518,14.0096221 3.81769688,13.4723638 3.81769688,12.8096221 L3.81769688,4.40962206 M5.61769688,4.40962206 L5.61769688,3.20962206 C5.61769688,2.54688036 6.15495518,2.00962206 6.81769688,2.00962206 L9.21769688,2.00962206 C9.88043858,2.00962206 10.4176969,2.54688036 10.4176969,3.20962206 L10.4176969,4.40962206" id="Shape" stroke="#000000" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>
